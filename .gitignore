@@ -3,6 +3,3 @@
 
 # Data that is too large to be stored in the repository
 database/images/*
-database/abstracts.csv
-database/code_availability.csv
-database/data_availability.csv
